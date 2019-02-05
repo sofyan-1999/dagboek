@@ -1,0 +1,10 @@
+.navbar-nav{
+	float: right;
+}
+.datum{
+	border: 1px black solid;
+}
+.verhaal{
+	border: 1px black solid;
+	height: auto;
+}
